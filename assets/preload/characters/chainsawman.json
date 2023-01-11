@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CHAIN IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CHAIN LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-53
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CHAIN DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				152
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CHAIN UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CHAIN RIGHT0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CHAINSAW MAN",
+	"position": [
+		-50,
+		-70
+	],
+	"healthicon": "chain",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		0
+	],
+	"camera_position": [
+		-40,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
